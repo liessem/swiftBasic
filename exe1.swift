@@ -1,0 +1,1 @@
+// Mostra o quadrado de númeors inteirosvar numQuadrado: Int//for (numQuadrado = 1; numQuadrado <= 100; i++){for numQuadrado	in 1...100{	println("O quadrado de \(numQuadrado) é \(numQuadrado * numQuadrado) \n")}
